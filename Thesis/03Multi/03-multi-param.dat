@@ -1,0 +1,16 @@
+SimTime:1800
+Mean:8
+DynamicT2P:1
+SpeedLowerBound:25
+SpeedUpperBound:35
+ComDistance:300
+PercentVehiclesRight:20
+PercentVehiclesLeft:20
+PercentVBuses:20
+LazyOn:1
+LazyTrigger:5
+LazyVQueue:20
+LazyTDelay:2
+Path:/Users/alejflor/thesis/Results/
+
+

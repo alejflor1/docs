@@ -1,0 +1,22 @@
+SimTime:1800
+Mean:6
+DynamicT2P:1
+SpeedLowerBound:25
+SpeedUpperBound:35
+ComDistance:300
+PercentVehiclesRight:20
+PercentVehiclesLeft:20
+PercentVBuses:20
+CycleTime:50
+EastWestTurn:0.2
+EastWestSR:0.8
+NorthSouthTurn:0.2
+NorthSouthSR: 0.8
+OutputPath:/Users/alejflor/thesis/Results/
+
+
+
+
+
+
+
